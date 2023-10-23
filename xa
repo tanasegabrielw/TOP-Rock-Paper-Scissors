@@ -1,0 +1,41 @@
+[33mcommit 67b2adccde6bf81faa73b31bbb21cf76a9546e21[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gabriel <tanase.gabriel671@gmail.com>
+Date:   Mon Oct 23 12:54:02 2023 +0300
+
+    Finished Play one round function
+
+[33mcommit f1f63efd2ed26d84212a9d5a506c32fea9cd5f68[m
+Author: Gabriel <tanase.gabriel671@gmail.com>
+Date:   Mon Oct 23 11:09:31 2023 +0300
+
+    Finished random computer chocie generator
+
+[33mcommit f419cbbd2542949e31cd53b70ef10ee622f2995d[m
+Author: Gabriel <tanase.gabriel671@gmail.com>
+Date:   Mon Oct 23 11:04:34 2023 +0300
+
+    Created HTML, CSS, JS files
+
+[33mcommit ae02cd740a7d35395fe42b5fcfdb7cd6853e9056[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tanasegabrielw <72333512+tanasegabrielw@users.noreply.github.com>
+Date:   Mon Oct 23 11:01:07 2023 +0300
+
+    Update README.md
+
+[33mcommit f823349e3426a46ab18e4f04c7a3b0f4d3bb97ea[m
+Author: tanasegabrielw <72333512+tanasegabrielw@users.noreply.github.com>
+Date:   Mon Oct 23 11:00:55 2023 +0300
+
+    Update README.md
+
+[33mcommit 18271fa03d83b74639da5d28eaac2b844a412824[m
+Author: tanasegabrielw <72333512+tanasegabrielw@users.noreply.github.com>
+Date:   Mon Oct 23 11:00:42 2023 +0300
+
+    Update README.md
+
+[33mcommit 91bc37b5b5334c94466c9673811c0c72b9d5b56b[m
+Author: tanasegabrielw <72333512+tanasegabrielw@users.noreply.github.com>
+Date:   Mon Oct 23 10:59:39 2023 +0300
+
+    Initial commit
