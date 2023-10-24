@@ -1,0 +1,46 @@
+button {
+
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+button:hover {
+
+font-size: large;
+
+}
+
+.container {
+
+    background-color: bisque;
+    padding:16px 32px;
+    height: 400px;
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gameText {
+
+padding:8px 16px;
+color:black;
+text-align: center;
+margin:2px 3px;
+font-size: 16px;
+
+}
+
+h1 {
+
+text-align: center;
+}
